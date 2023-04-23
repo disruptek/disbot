@@ -1,0 +1,1304 @@
+{
+  "help": [
+    {
+      "author": "disruptek",
+      "text": "Define a footnote with `~term is /some text here/` and fetch definitions with `~term`.  You can add regular expression(s) to filter results, eg. `~term nim.*org/docs`"
+    }
+  ],
+  "rfc": [
+    {
+      "author": "disruptek",
+      "text": "a `Request For Comments`; a proposal for discussion, such as you might find at https://github.com/nim-lang/RFCs"
+    }
+  ],
+  "forum": [
+    {
+      "author": "disruptek",
+      "text": "Nim has a forum at https://forum.nim-lang.org/ -- ask @dom96 for help with any account issues."
+    }
+  ],
+  "json": [
+    {
+      "author": "disruptek",
+      "text": "https://nim-lang.org/docs/json.html"
+    }
+  ],
+  "tables": [
+    {
+      "author": "disruptek",
+      "text": "hash table dictionary maps; see https://nim-lang.org/docs/tables.html"
+    }
+  ],
+  "disruptek": [
+    {
+      "author": "disruptek",
+      "text": "a man, a plan, panama",
+      "term": "disruptek"
+    },
+    {
+      "author": "Clyybber",
+      "text": ":disruptek:",
+      "term": "disruptek"
+    },
+    {
+      "author": "mratsim",
+      "text": "an unsafe nil deref",
+      "term": "disruptek"
+    },
+    {
+      "author": "clyybber",
+      "text": "an exception",
+      "term": "disruptek"
+    },
+    {
+      "author": "keisterfish",
+      "text": "the rapscallion stallion.",
+      "term": "disruptek"
+    },
+    {
+      "author": "disruptek[m]",
+      "text": "the devil’s dildo",
+      "term": "disruptek"
+    }
+  ],
+  "zevv": [
+    {
+      "author": "disruptek",
+      "text": "your one-eyed bandit",
+      "term": "Zevv"
+    }
+  ],
+  "compiler": [
+    {
+      "author": "disruptek",
+      "text": "https://nim-lang.org/docs/nimc.html -- the Nim Compiler User Guide"
+    }
+  ],
+  "araq": [
+    {
+      "author": "disruptek",
+      "text": "👑Andreas \"What Else?\" Rumpf👑",
+      "term": "Araq"
+    }
+  ],
+  "pmunch": [
+    {
+      "term": "PMunch",
+      "author": "pmunch",
+      "text": "a metaprogramming aficionado and long time Nim user who can be found at peterme.net"
+    },
+    {
+      "author": "PMunch",
+      "text": "streaming at https://twitch.tv/pmunche",
+      "term": "PMunch"
+    }
+  ],
+  "api": [
+    {
+      "author": "mratsim",
+      "text": "https://nim-lang.org/docs/theindex.html"
+    }
+  ],
+  "mratsim": [
+    {
+      "author": "alehander92",
+      "text": "a french guy, aspiring go player and true man of baguette"
+    }
+  ],
+  "nre": [
+    {
+      "author": "disruptek",
+      "text": "https://nim-lang.org/docs/nre.html"
+    }
+  ],
+  "nimrtl.dll": [
+    {
+      "author": "disruptek",
+      "text": "DLL generation is documented briefly at https://nim-lang.org/docs/nimc.html#dll-generation",
+      "term": "nimrtl.dll"
+    }
+  ],
+  "dynlib": [
+    {
+      "author": "disruptek",
+      "text": "shared library creation; documented at https://nim-lang.org/docs/dynlib.html",
+      "term": "dynlib"
+    }
+  ],
+  "kaushalmodi": [
+    {
+      "author": "disruptek",
+      "text": "a badass coder with a wealth of useful Nim articles on his blog, at https://scripter.co/",
+      "term": "kaushalmodi"
+    }
+  ],
+  "concepts": [
+    {
+      "author": "disruptek",
+      "text": "user-defined type classes; documented in the experimental section of the manual: https://nim-lang.org/docs/manual_experimental.html#concepts",
+      "term": "concepts"
+    }
+  ],
+  "leorize": [
+    {
+      "author": "disruptek",
+      "text": "our patron saint of ci/cd.",
+      "term": "leorize"
+    }
+  ],
+  "arc": [
+    {
+      "author": "disruptek",
+      "text": "a new memory manager for Nim; see https://forum.nim-lang.org/t/5734",
+      "term": "arc"
+    }
+  ],
+  "survey": [
+    {
+      "author": "disruptek",
+      "text": "the Nim Community Survey at https://nim-lang.org/blog/2019/12/20/community-survey-2019.html",
+      "term": "survey"
+    }
+  ],
+  "clyybber": [
+    {
+      "author": "disruptek",
+      "text": "a knucklehead",
+      "term": "clyybber"
+    }
+  ],
+  "&": [
+    {
+      "author": "solitudesf",
+      "text": "unreachable",
+      "term": "&"
+    }
+  ],
+  "solitudesf": [
+    {
+      "author": "Clyybber",
+      "text": "pissed",
+      "term": "solitudesf"
+    }
+  ],
+  "nameisjohn": [
+    {
+      "author": "disruptek",
+      "text": "It's john :)",
+      "term": "nameisjohn"
+    }
+  ],
+  "manual": [
+    {
+      "author": "disruptek",
+      "text": "the Nim Manual is https://nim-lang.org/docs/manual.html",
+      "term": "manual"
+    },
+    {
+      "author": "haxscramper",
+      "text": "just good to Ctrl+F in cases like this",
+      "term": "manual"
+    }
+  ],
+  "rika": [
+    {
+      "author": "mratsim",
+      "text": "a footnote",
+      "term": "Rika"
+    }
+  ],
+  "codenoid": [
+    {
+      "author": "disruptek",
+      "text": "new in Nim",
+      "term": "codenoid"
+    }
+  ],
+  "goto": [
+    {
+      "author": "disruptek",
+      "text": "a new high-performance, zero-drawback exception system in Nim's devel branch; see https://forum.nim-lang.org/t/5784",
+      "term": "goto"
+    }
+  ],
+  "intro": [
+    {
+      "author": "disruptek",
+      "text": "C++ as Assembly 2.0; one of the better Nim introduction talks, by Viktor Kirilov at code::dive 2019: https://invidio.us/embed/8SoJR3sCaR4 (~1hr)",
+      "term": "intro"
+    }
+  ],
+  "nimcache": [
+    {
+      "author": "disruptek",
+      "text": "the best way to figure out where it is located is to specify that location with --nimcache",
+      "term": "nimcache"
+    }
+  ],
+  "shashlick": [
+    {
+      "author": "disruptek",
+      "text": "someone more felt than seen.  no, that's not it.  shashlick must be HEARD!  https://genotrance.wordpress.com/",
+      "term": "shashlick"
+    }
+  ],
+  "exports": [
+    {
+      "author": "disruptek",
+      "text": "export symbols by appending a `*` to the end of the identifier; see https://nim-lang.github.io/Nim/manual.html#procedures-export-marker",
+      "term": "exports"
+    }
+  ],
+  "!eval": [
+    {
+      "author": "clyybber",
+      "text": "command to evaluate snippets on IRC",
+      "term": "!eval"
+    }
+  ],
+  "variant": [
+    {
+      "author": "mratsim",
+      "text": "https://nim-lang.org/docs/tut2.html#object-oriented-programming-object-variants",
+      "term": "variant"
+    }
+  ],
+  "alehander92": [
+    {
+      "author": "alehander92",
+      "text": "a simple man",
+      "term": "alehander92"
+    }
+  ],
+  "repl": [
+    {
+      "author": "disruptek",
+      "text": "don't ask zevv",
+      "term": "repl"
+    }
+  ],
+  "motd": [
+    {
+      "author": "disruptek",
+      "text": "Tell me a story about when your instinct, your \"programmer's spidey sense\", saved your bacon.  Or worse...",
+      "term": "motd"
+    },
+    {
+      "author": "clyybber",
+      "text": "\\n~motd",
+      "term": "motd"
+    },
+    {
+      "author": "leorize",
+      "text": "~motd",
+      "term": "motd"
+    }
+  ],
+  "closurescope": [
+    {
+      "author": "disruptek",
+      "text": "https://nim-lang.github.io/Nim/system.html#closureScope.t%2Cuntyped",
+      "term": "closureScope"
+    }
+  ],
+  "data": [
+    {
+      "author": "disruptek",
+      "text": "disbot databases are at https://github.com/disruptek/disbot",
+      "term": "data"
+    }
+  ],
+  "mcs": [
+    {
+      "author": "leorize",
+      "text": "method call syntax, or UFCS in popular lingo; see https://nim-lang.org/docs/manual.html#procedures-method-call-syntax",
+      "term": "mcs"
+    }
+  ],
+  "nimscript": [
+    {
+      "author": "shashlick",
+      "text": "NimScript is the subset of Nim that can be evaluated by Nim's builtin virtual machine - https://nim-lang.org/docs/nims.html",
+      "term": "nimscript"
+    },
+    {
+      "author": "disruptek",
+      "text": "mostly nim.  it's analogous to clojurescript in that it's the same language, running on a different backend.  in the case of nimscript, it's running on the nim vm.",
+      "term": "nimscript"
+    }
+  ],
+  "orc": [
+    {
+      "author": "disruptek",
+      "text": "arc's slower, dim-witted brother who also detects and breaks memory cycles.",
+      "term": "orc"
+    }
+  ],
+  "return": [
+    {
+      "author": "disruptek",
+      "text": "an early program for dumping the compiler's memory to disk",
+      "term": "return"
+    }
+  ],
+  "tutorial": [
+    {
+      "author": "solitudesf",
+      "text": "intro to sacred manuscripts: https://nim-lang.org/docs/tut1.html",
+      "term": "tutorial"
+    }
+  ],
+  "valgrind": [
+    {
+      "author": "Clyybber",
+      "text": "use -d:useMalloc",
+      "term": "valgrind"
+    }
+  ],
+  "paste": [
+    {
+      "author": "disruptek",
+      "text": "a frowned-upon behavior in chat; please use a service such as https://play.nim-lang.org/ or http://ix.io/ or https://gist.github.com/ and supply us a URL instead.",
+      "term": "paste"
+    }
+  ],
+  "motto": [
+    {
+      "author": "lqdev[m]",
+      "text": "not for googlers",
+      "term": "motto"
+    }
+  ],
+  "choosenim": [
+    {
+      "author": "disruptek",
+      "text": "https://github.com/dom96/choosenim/releases/tag/v0.5.1",
+      "term": "choosenim"
+    }
+  ],
+  "dumpnumberofinstances": [
+    {
+      "author": "disruptek",
+      "text": "add a -d:nimTypeNames at compilation and call `dumpNumberOfInstances()` at runtime.",
+      "term": "dumpNumberOfInstances"
+    }
+  ],
+  "bentley": [
+    {
+      "author": "disruptek",
+      "text": "https://imgur.com/gallery/yEXiWWG",
+      "term": "bentley"
+    },
+    {
+      "author": "clyybber",
+      "text": "a good boy",
+      "term": "bentley"
+    }
+  ],
+  "_": [
+    {
+      "author": "disruptek",
+      "text": "unreachable",
+      "term": "_"
+    }
+  ],
+  "features": [
+    {
+      "author": "Araq",
+      "text": "begin in the unfortunate state of /unimplemented/",
+      "term": "features"
+    }
+  ],
+  "scalable": [
+    {
+      "author": "disruptek",
+      "text": "troll-talk for `unreachable`.",
+      "term": "scalable"
+    }
+  ],
+  "nigel": [
+    {
+      "author": "disruptek",
+      "text": "something wacky this way comes",
+      "term": "nigel"
+    }
+  ],
+  "playground": [
+    {
+      "author": "disruptek",
+      "text": "an online in-the-browser IDE for simple Nim experiments at http://argentina-ni.ml/",
+      "term": "playground"
+    },
+    {
+      "author": "PMunch",
+      "text": "https://play.nim-lang.org the official Nim playground, can run Nim in the browser and share snippets",
+      "term": "playground"
+    }
+  ],
+  "stream": [
+    {
+      "author": "disruptek",
+      "text": "https://twitch.tv/disruptek (live video/audio) and mumble://uberalles.mumbl.io/ (live voice chat)",
+      "term": "stream"
+    }
+  ],
+  "notes": [
+    {
+      "author": "disruptek",
+      "text": "https://gist.github.com/disruptek/41100bf20978de9a3cff55b23fcfe44e",
+      "term": "notes"
+    }
+  ],
+  "news": [
+    {
+      "author": "disruptek",
+      "text": "the #nim-news channel has a Nim news feed of updates to pull requests, issues, and packages.  The bot also broadcasts ix.io -> playground URLs here automatically.",
+      "term": "news"
+    }
+  ],
+  "matrix": [
+    {
+      "author": "leorize",
+      "text": "Nim channels on Matrix can be found at +nim:asra.gr (https://matrix.to/#/+nim:asra.gr)",
+      "term": "matrix"
+    }
+  ],
+  "salewski": [
+    {
+      "author": "disruptek",
+      "text": "a cool book on nim: http://ssalewski.de/nimprogramming.html",
+      "term": "salewski"
+    }
+  ],
+  "memory": [
+    {
+      "author": "leorize",
+      "text": "The Nim memory model: https://zevv.nl/nim-memory/",
+      "term": "memory"
+    }
+  ],
+  "ystream": [
+    {
+      "author": "Yardanico",
+      "text": "Stream at https://twitch.tv/yardanico, voice chat either on Mumble (mumble://uberalles.mumbl.io/) or in Discord (https://discord.com/invite/ezDFDw2)",
+      "term": "ystream"
+    }
+  ],
+  "cursor": [
+    {
+      "author": "disruptek",
+      "text": "let foo {.cursor.} = anyRef # with --gc:arc",
+      "term": "cursor"
+    }
+  ],
+  "pythonnim": [
+    {
+      "author": "PMunch",
+      "text": "https://robert-mcdermott.gitlab.io/posts/speeding-up-python-with-nim/",
+      "term": "pythonnim"
+    }
+  ],
+  "pastespam": [
+    {
+      "author": "PMunch",
+      "text": "Please don't paste code and/or multiline content on Discord. It comes through on IRC and is very annoying",
+      "term": "pastespam"
+    }
+  ],
+  "nimconf": [
+    {
+      "author": "disruptek",
+      "text": "missing a landing page for advertisement.",
+      "term": "nimconf"
+    }
+  ],
+  "dom_stream": [
+    {
+      "author": "dom96",
+      "text": "twitch.tv/d0m96",
+      "term": "dom_stream"
+    }
+  ],
+  "astream": [
+    {
+      "author": "Yardanico",
+      "text": "https://www.twitch.tv/alehander42/",
+      "term": "astream"
+    }
+  ],
+  "experimental": [
+    {
+      "author": "disruptek_",
+      "text": "Features of Nim that are to be considered experimental are documented at https://nim-lang.org/docs/manual_experimental.html",
+      "term": "experimental"
+    }
+  ],
+  "klegg": [
+    {
+      "author": "PMunch",
+      "text": "https://uploads.peterme.net/klegg.jpg another good dog",
+      "term": "klegg"
+    }
+  ],
+  "nep1": [
+    {
+      "author": "PMunch",
+      "text": "https://nim-lang.org/docs/nep1.html",
+      "term": "nep1"
+    }
+  ],
+  "zedeus": [
+    {
+      "author": "disruptek",
+      "text": "the nitter.net guy",
+      "term": "zedeus"
+    }
+  ],
+  "compiles": [
+    {
+      "author": "disruptek",
+      "text": "tested it on one million `compiles` checks (34mb of text) - results are: `Hint: 1037839 lines; 107.292s; 1.963GiB peakmem;`. Which means about `0.0002` seconds per check. Script to generate test case: `https://play.nim-lang.org/#ix=2pb6`.",
+      "term": "compiles"
+    }
+  ],
+  "veryhigh": [
+    {
+      "author": "disruptek",
+      "text": "^1",
+      "term": "veryhigh"
+    }
+  ],
+  "shucks": [
+    {
+      "author": "disruptek",
+      "text": "a new Pythonista transient",
+      "term": "Shucks"
+    }
+  ],
+  "gitnim": [
+    {
+      "author": "disruptek",
+      "text": "https://gitnim.com/ -- choosenim for choosey nimions",
+      "term": "gitnim"
+    }
+  ],
+  "footnote": [
+    {
+      "author": "Clyybber",
+      "text": "added",
+      "term": "footnote"
+    }
+  ],
+  "nimx": [
+    {
+      "author": "Technisha Circuit",
+      "text": "https://github.com/yglukhov/nimx",
+      "term": "nimx"
+    }
+  ],
+  "index": [
+    {
+      "author": "zedeus",
+      "text": "https://nim-lang.org/docs/theindex.html",
+      "term": "index"
+    }
+  ],
+  "apis": [
+    {
+      "author": "leorize",
+      "text": "https://nim-lang.org/docs/apis.html",
+      "term": "apis"
+    }
+  ],
+  "destructor": [
+    {
+      "author": "leorize",
+      "text": "https://nim-lang.org/docs/destructors.html",
+      "term": "destructor"
+    }
+  ],
+  "curated": [
+    {
+      "author": "disruptek",
+      "text": "an awesome list of interesting Nim packages at https://github.com/nim-lang/Nim/wiki/Curated-Packages",
+      "term": "curated"
+    }
+  ],
+  "dontasktoask": [
+    {
+      "author": "liblq-dev",
+      "text": "https://dontasktoask.com/",
+      "term": "dontasktoask"
+    }
+  ],
+  "zlib": [
+    {
+      "author": "disruptek",
+      "text": "https://irclogs.nim-lang.org/15-07-2020.html#17:51:13",
+      "term": "zlib"
+    }
+  ],
+  "love": [
+    {
+      "author": "alehander92",
+      "text": "patient, love is kind.",
+      "term": "love"
+    }
+  ],
+  "password": [
+    {
+      "author": "Clyybber",
+      "text": "bentleyisagoodboy",
+      "term": "password"
+    }
+  ],
+  "naming": [
+    {
+      "author": "alehander92",
+      "text": ".",
+      "term": "naming"
+    }
+  ],
+  "pate": [
+    {
+      "author": "disruptek",
+      "text": "a really bad idea made worse by its implementation.",
+      "term": "pate"
+    }
+  ],
+  "ircord": [
+    {
+      "author": "Yardanico",
+      "text": "https://github.com/Yardanico/ircord/",
+      "term": "ircord"
+    }
+  ],
+  "discord": [
+    {
+      "author": "Hearthstone",
+      "text": "https://discord.gg/A3HUdcM",
+      "term": "discord"
+    },
+    {
+      "author": "Yardanico",
+      "text": "https://discord.gg/ezDFDw2",
+      "term": "discord"
+    }
+  ],
+  "c2nim": [
+    {
+      "author": "leorize",
+      "text": "c2nim user manual: https://github.com/nim-lang/c2nim/blob/master/doc/c2nim.rst",
+      "term": "c2nim"
+    }
+  ],
+  "bugs": [
+    {
+      "author": "disruptek",
+      "text": "intelligent design does not apply to bugs.",
+      "term": "bugs"
+    }
+  ],
+  "python": [
+    {
+      "author": "disruptek",
+      "text": "ride the snake",
+      "term": "python"
+    }
+  ],
+  "haxscramper": [
+    {
+      "author": "disruptek",
+      "text": "\"chasing down invalid data conversion through layers and layers of blind casts is ... exactly my thing\"",
+      "term": "haxscramper"
+    },
+    {
+      "author": "haxscramper[m]",
+      "text": "raise (ref Defect)(nil)",
+      "term": "haxscramper"
+    }
+  ],
+  "avatarfighter": [
+    {
+      "author": "disruptek",
+      "text": "a chucklehead who cannot tell a tilde from a hyphen.",
+      "term": "Avatarfighter"
+    }
+  ],
+  "disbot": [
+    {
+      "author": "disruptek",
+      "text": "a bot that will message you usage instructions if you say `~help`.  if you're on discord or gitter, you're shit outta luck -- get a real client.",
+      "term": "disbot"
+    }
+  ],
+  "os:any": [
+    {
+      "author": "Zevv",
+      "text": "just fine",
+      "term": "os:any"
+    }
+  ],
+  "varvsref": [
+    {
+      "author": "PMunch",
+      "text": "https://forum.nim-lang.org/t/1787#11158",
+      "term": "varvsref"
+    }
+  ],
+  "improvingdocs": [
+    {
+      "author": "Clyybber",
+      "text": "the issue with docs is that the people who see the problems can't fix them and the people who could fix them don't see the problems",
+      "term": "improvingdocs"
+    }
+  ],
+  ">": [
+    {
+      "author": "mratsim",
+      "text": "better :p",
+      "term": ">"
+    }
+  ],
+  "compilerapi": [
+    {
+      "author": "leorize[m]1",
+      "text": "https://nim-lang.github.io/Nim/compiler/theindex.html",
+      "term": "compilerapi"
+    }
+  ],
+  "views": [
+    {
+      "author": "disruptek",
+      "text": "https://nim-lang.github.io/Nim/manual_experimental.html#view-types",
+      "term": "views"
+    }
+  ],
+  "dll": [
+    {
+      "author": "disruptek",
+      "text": "https://nim-lang.org/docs/nimc.html#dll-generation",
+      "term": "dll"
+    }
+  ],
+  "restarting": [
+    {
+      "author": "Clyybber",
+      "text": "bridge",
+      "term": "restarting"
+    }
+  ],
+  "ha~": [
+    {
+      "author": "Clyybber",
+      "text": "test",
+      "term": "HA~"
+    }
+  ],
+  "arraymancer": [
+    {
+      "author": "Yardanico",
+      "text": "https://github.com/mratsim/Arraymancer",
+      "term": "arraymancer"
+    }
+  ],
+  "basics": [
+    {
+      "author": "disruptek",
+      "text": "https://narimiran.github.io/nim-basics/",
+      "term": "basics"
+    }
+  ],
+  "command": [
+    {
+      "author": "leorize[m]1",
+      "text": "command invocation syntax, which is the ability to omit braces from routine calls: https://nim-lang.org/docs/manual.html#procedures-command-invocation-syntax",
+      "term": "command"
+    }
+  ],
+  "prestige": [
+    {
+      "author": "Yardanico",
+      "text": "has NO HAT",
+      "term": "prestige"
+    }
+  ],
+  "disrupte": [
+    {
+      "author": "disruptek",
+      "text": "a fruit witness.",
+      "term": "disrupte"
+    }
+  ],
+  "bridgebots": [
+    {
+      "author": "lqdev",
+      "text": "the Discord channel is bridged to IRC. the bot users you are seeing are controlled by a webhook that sends messages from IRC onto Discord, so those are actual users.",
+      "term": "bridgebots"
+    }
+  ],
+  "ic": [
+    {
+      "author": "haxscramper",
+      "text": "an incremental compilation; It allows to cache compilation results, removing need to recompile all modules in project and speeding up recomilation. For relevant RFC see https://github.com/nim-lang/RFCs/issues/46",
+      "term": "ic"
+    }
+  ],
+  "macro": [
+    {
+      "author": "haxscramper",
+      "text": "\"Are you really sure you need this?\"",
+      "term": "macro"
+    }
+  ],
+  "nia": [
+    {
+      "author": "alehander42",
+      "text": "cat",
+      "term": "nia"
+    }
+  ],
+  "ufcs": [
+    {
+      "author": "disruptek",
+      "text": "a misnomer.  See https://gist.github.com/disruptek/6d0cd6774d05adaa894db4deb646fc1d for one set of opinions.",
+      "term": "ufcs"
+    }
+  ],
+  "errata": [
+    {
+      "author": "leorize[m]1",
+      "text": "Nim in Action errata: https://deepakg.github.io/nim/2019/09/28/nim-in-action-errata.html",
+      "term": "errata"
+    }
+  ],
+  "rtfm": [
+    {
+      "author": "PMunch",
+      "text": "read the fucking manual",
+      "term": "rtfm"
+    },
+    {
+      "author": "narimiran",
+      "text": "https://nim-lang.org/documentation.html",
+      "term": "rtfm"
+    }
+  ],
+  "ninp": [
+    {
+      "author": "narimiran",
+      "text": "nim is not python!!",
+      "term": "ninp"
+    }
+  ],
+  "esbeesy": [
+    {
+      "author": "disruptek",
+      "text": "\"sugar.collect is siiiiick wtf\"",
+      "term": "Esbeesy"
+    }
+  ],
+  "xy": [
+    {
+      "author": "narimiran",
+      "text": "https://en.wikipedia.org/wiki/XY_problem",
+      "term": "xy"
+    }
+  ],
+  "scott": [
+    {
+      "author": "PMunch",
+      "text": "someone on Discord",
+      "term": "scott"
+    }
+  ],
+  "dispruptek": [
+    {
+      "author": "PMunch",
+      "text": "comes with a disclaimer",
+      "term": "dispruptek"
+    }
+  ],
+  "niminaction": [
+    {
+      "author": "PMunch",
+      "text": "a book about Nim written by dom96 - https://www.manning.com/books/nim-in-action",
+      "term": "niminaction"
+    }
+  ],
+  "disrupstyle": [
+    {
+      "author": "disruptek",
+      "text": "tips for writing code that won't provoke 😠 rants 🤬 on irc: https://gist.github.com/disruptek/6d0cd6774d05adaa894db4deb646fc1d",
+      "term": "disrupstyle"
+    }
+  ],
+  "disruptesque": [
+    {
+      "author": "haxscramper",
+      "text": "the art of telling it as it is",
+      "term": "disruptesque"
+    }
+  ],
+  "io": [
+    {
+      "author": "disruptek",
+      "text": "a moon of Jupiter",
+      "term": "io"
+    }
+  ],
+  "recursion": [
+    {
+      "author": "nikki",
+      "text": "see ~recursion",
+      "term": "recursion"
+    }
+  ],
+  "gui": [
+    {
+      "author": "haxscramper",
+      "text": "https://github.com/nim-lang/Nim/wiki/Curated-Packages#gui",
+      "term": "gui"
+    },
+    {
+      "author": "disruptek",
+      "text": "a useful starting point for investigating Nim GUI options",
+      "term": "gui"
+    }
+  ],
+  "vware": [
+    {
+      "author": "disruptek",
+      "text": "readme-driven development.",
+      "term": "vware"
+    }
+  ],
+  "mcs-limits": [
+    {
+      "author": "leorize",
+      "text": "limitations of Nim's method call syntax: https://nim-lang.org/docs/manual.html#templates-limitations-of-the-method-call-syntax",
+      "term": "mcs-limits"
+    }
+  ],
+  "csp": [
+    {
+      "author": "asd",
+      "text": "https://en.wikipedia.org/wiki/Communicating_sequential_processes",
+      "term": "csp"
+    }
+  ],
+  "cps": [
+    {
+      "author": "asd",
+      "text": "https://en.wikipedia.org/wiki/Continuation-passing_style",
+      "term": "cps"
+    },
+    {
+      "author": "disruptek",
+      "text": "https://github.com/nim-works/cps infographic: https://raw.githubusercontent.com/nim-works/cps/master/docs/cps.svg",
+      "term": "cps"
+    }
+  ],
+  "fwsgonzo": [
+    {
+      "author": "disruptek",
+      "text": "https://fwsgonzo.medium.com/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276",
+      "term": "fwsgonzo"
+    }
+  ],
+  "learn": [
+    {
+      "author": "haxscramper",
+      "text": "contains links to lots of interesting articles and tutorials to get started with nim",
+      "term": "learn"
+    },
+    {
+      "author": "disruptek",
+      "text": "https://nim-lang.org/learn.html",
+      "term": "learn"
+    }
+  ],
+  "lfeatures": [
+    {
+      "author": "haxscramper",
+      "text": "https://github.com/nim-lang/Nim/wiki/Lesser-known-Nim-features",
+      "term": "lfeatures"
+    }
+  ],
+  "imports": [
+    {
+      "author": "narimiran",
+      "text": "https://narimiran.github.io/2019/07/01/nim-import.html",
+      "term": "imports"
+    }
+  ],
+  "import": [
+    {
+      "author": "narimiran",
+      "text": "https://narimiran.github.io/2019/07/01/nim-import.html",
+      "term": "import"
+    }
+  ],
+  "simprot": [
+    {
+      "author": "disruptek",
+      "text": "https://narimiran.github.io/2019/07/01/nim-import.html",
+      "term": "simprot"
+    }
+  ],
+  "notnil": [
+    {
+      "author": "leorize",
+      "text": "https://nim-lang.github.io/Nim/manual_experimental.html#strict-not-nil-checking",
+      "term": "notnil"
+    }
+  ],
+  "trynim": [
+    {
+      "author": "haxscramper",
+      "text": "https://nim-by-example.github.io/ and https://play.nim-lang.org/",
+      "term": "trynim"
+    }
+  ],
+  "goals": [
+    {
+      "author": "disruptek",
+      "text": "disruptek, 2021: nigel, nimo, gitnim/dist, cps",
+      "term": "goals"
+    },
+    {
+      "author": "haxscramper",
+      "text": "haxscramper: C++ interop, docgen",
+      "term": "goals"
+    },
+    {
+      "author": "lqdev",
+      "text": "lqdev 2021: tsuki",
+      "term": "goals"
+    }
+  ],
+  "saem": [
+    {
+      "author": "disruptek",
+      "text": "my 2nd cheapest sponsor",
+      "term": "saem"
+    }
+  ],
+  "zacharycarter": [
+    {
+      "author": "disruptek",
+      "text": "my sexiest sponsor 😘",
+      "term": "ZacharyCarter"
+    }
+  ],
+  "sink": [
+    {
+      "author": "disruptek",
+      "text": "an /optimization/; it cannot make your code more correct.",
+      "term": "sink"
+    }
+  ],
+  "gcsafe": [
+    {
+      "author": "disruptek",
+      "text": "an /annotation/; it cannot make your code more correct.",
+      "term": "gcsafe"
+    }
+  ],
+  "cabboose": [
+    {
+      "author": "disruptek",
+      "text": "the less said, the better.",
+      "term": "cabboose"
+    }
+  ],
+  "beef": [
+    {
+      "author": "disruptek",
+      "text": "our resident windows user.",
+      "term": "beef"
+    }
+  ],
+  "bors": [
+    {
+      "author": "cabboose[m]",
+      "text": "\u001Dmeep morp\u000F",
+      "term": "bors"
+    }
+  ],
+  "work": [
+    {
+      "author": "haxscramper[m]",
+      "text": "\"I just value it more highly than code that doesn't, for some reason. A character flaw of mine.\"",
+      "term": "work"
+    }
+  ],
+  "windows": [
+    {
+      "author": "haxscramper[m]",
+      "text": "not supported",
+      "term": "windows"
+    }
+  ],
+  "pain": [
+    {
+      "author": "haxscramper[m]",
+      "text": "okay, so it's a tetrahedron of pain, wise guy.",
+      "term": "pain"
+    }
+  ],
+  "testament": [
+    {
+      "author": "cabboose[m]",
+      "text": "\"I thought that testament was a hack, but each day I found out that it is even worse\"",
+      "term": "testament"
+    }
+  ],
+  "s": [
+    {
+      "author": "haxscramper[m]",
+      "text": "\u001Dsupposedly\u000F",
+      "term": "s"
+    }
+  ],
+  "rwc": [
+    {
+      "author": "haxscramper[m]",
+      "text": "Real World Code",
+      "term": "RWC"
+    }
+  ],
+  "spec": [
+    {
+      "author": "haxscramper[m]",
+      "text": "https://nim-works.github.io/nimskull/spec.html",
+      "term": "spec"
+    }
+  ],
+  "progress": [
+    {
+      "author": "haxscramper[m]",
+      "text": "https://github.com/nim-works/nimskull/discussions/142",
+      "term": "progress"
+    }
+  ],
+  "abstraction": [
+    {
+      "author": "disruptek",
+      "text": "ignorance is bliss.",
+      "term": "abstraction"
+    }
+  ],
+  "ice": [
+    {
+      "author": "haxscramper[m]",
+      "text": "\"Internal Compiler Error\" aka welcome to hell",
+      "term": "ice"
+    }
+  ],
+  "lqdev": [
+    {
+      "author": "disruptek",
+      "text": "not much of a game designer, but he sure can dance.",
+      "term": "lqdev"
+    }
+  ],
+  "gonzo": [
+    {
+      "author": "disruptek",
+      "text": "https://fwsgonzo.medium.com/virtual-machines-for-multi-tenancy-in-varnish-1c619ea3276",
+      "term": "gonzo"
+    }
+  ],
+  "jars": [
+    {
+      "author": "disruptek",
+      "text": "http://zevv.nl/bak/",
+      "term": "jars"
+    }
+  ],
+  "dustmite": [
+    {
+      "author": "disruptek",
+      "text": "https://dlang.org/blog/2020/04/13/dustmite-the-general-purpose-data-reduction-tool/",
+      "term": "dustmite"
+    }
+  ],
+  "cyo": [
+    {
+      "author": "haxscramper[m]",
+      "text": "pronounced as \"see-yo\"",
+      "term": "cyo"
+    }
+  ],
+  "nbd": [
+    {
+      "author": "disruptek",
+      "text": "no big deal",
+      "term": "nbd"
+    }
+  ],
+  "ir": [
+    {
+      "author": "haxscramper[m]",
+      "text": "\"intermediate representation\"",
+      "term": "ir"
+    }
+  ],
+  "rhine": [
+    {
+      "author": "disruptek",
+      "text": "clojure over llvm at https://github.com/artagnon/rhine-ml",
+      "term": "rhine"
+    }
+  ],
+  "clasp": [
+    {
+      "author": "disruptek",
+      "text": "clisp over llvm at https://github.com/clasp-developers/clasp",
+      "term": "clasp"
+    }
+  ],
+  "april": [
+    {
+      "author": "disruptek",
+      "text": "subset of APL compiling to common lisp at https://github.com/phantomics/april",
+      "term": "april"
+    }
+  ],
+  "ct": [
+    {
+      "author": "disruptek",
+      "text": "compile time is a looong time.",
+      "term": "ct"
+    }
+  ],
+  "coz": [
+    {
+      "author": "disruptek",
+      "text": "causal profiler https://github.com/plasma-umass/coz",
+      "term": "coz"
+    }
+  ],
+  "friday": [
+    {
+      "author": "disruptek",
+      "text": "https://soundcloud.com/g-bonson/elephantasque",
+      "term": "friday"
+    }
+  ],
+  "marl": [
+    {
+      "author": "disruptek[m]",
+      "text": "https://github.com/google/marl",
+      "term": "marl"
+    }
+  ],
+  "suspend": [
+    {
+      "author": "disruptek[m]",
+      "text": "might suspend depending on the weather and phase of the moon",
+      "term": "suspend"
+    }
+  ]
+}
