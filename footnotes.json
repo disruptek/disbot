@@ -1314,5 +1314,12 @@
       "text": "https://github.com/cozodb/cozo",
       "term": "cozo"
     }
+  ],
+  "sh": [
+    {
+      "author": "disruptek",
+      "text": "https://acha.ninja/blog/dsl_for_shell_scripting/ -- a nice article explaining https://github.com/andrewchambers/janet-sh which, it must be said, somehow fails to hint at (use sh) to remove the sh/ verbosity.",
+      "term": "sh"
+    }
   ]
 }
