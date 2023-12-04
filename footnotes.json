@@ -1321,5 +1321,33 @@
       "text": "https://acha.ninja/blog/dsl_for_shell_scripting/ -- a nice article explaining https://github.com/andrewchambers/janet-sh which, it must be said, somehow fails to hint at (use sh) to remove the sh/ verbosity.",
       "term": "sh"
     }
+  ],
+  "alien": [
+    {
+      "author": "disruptek",
+      "text": "https://github.com/chrxh/alien",
+      "term": "alien"
+    }
+  ],
+  "ruler": [
+    {
+      "author": "disruptek",
+      "text": "https://github.com/uwplse/ruler -- domain-based ruleset inference",
+      "term": "ruler"
+    }
+  ],
+  "arcadia": [
+    {
+      "author": "disruptek",
+      "text": "https://github.com/kimtg/Arcadia",
+      "term": "arcadia"
+    }
+  ],
+  "era": [
+    {
+      "author": "disruptek",
+      "text": "https://github.com/era-platform/era",
+      "term": "era"
+    }
   ]
 }
