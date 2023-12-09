@@ -1349,5 +1349,12 @@
       "text": "https://github.com/era-platform/era",
       "term": "era"
     }
+  ],
+  "carp": [
+    {
+      "author": "disruptek",
+      "text": "https://github.com/carp-lang/Carp",
+      "term": "carp"
+    }
   ]
 }
