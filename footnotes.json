@@ -32,7 +32,7 @@
   "disruptek": [
     {
       "author": "disruptek",
-      "text": "a man, a plan, panama",
+      "text": "solved problems implemented slowly",
       "term": "disruptek"
     },
     {
@@ -1355,6 +1355,13 @@
       "author": "disruptek",
       "text": "https://github.com/carp-lang/Carp",
       "term": "carp"
+    }
+  ],
+  "qbe": [
+    {
+      "author": "disruptek",
+      "text": "https://c9x.me/compile/ QBE is a compiler backend that aims to provide 70% of the performance of industrial optimizing compilers in 10% of the code",
+      "term": "qbe"
     }
   ]
 }
