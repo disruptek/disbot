@@ -1363,5 +1363,12 @@
       "text": "https://c9x.me/compile/ QBE is a compiler backend that aims to provide 70% of the performance of industrial optimizing compilers in 10% of the code",
       "term": "qbe"
     }
+  ],
+  "herb": [
+    {
+      "author": "disruptek",
+      "text": "atomic weapons talk by herb sutter: https://www.youtube.com/watch?v=A8eCGOqgvH4 and https://www.youtube.com/watch?v=KeLBd2EJLOU",
+      "term": "herb"
+    }
   ]
 }
