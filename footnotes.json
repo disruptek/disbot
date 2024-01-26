@@ -1377,5 +1377,12 @@
       "text": "not safe until proven otherwise",
       "term": "threads"
     }
+  ],
+  "insideout": [
+    {
+      "author": "disruptek",
+      "text": "insideout all the way down.",
+      "term": "insideout"
+    }
   ]
 }
