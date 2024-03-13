@@ -1384,5 +1384,38 @@
       "text": "insideout all the way down.",
       "term": "insideout"
     }
+  ],
+  "peterson's": [
+    {
+      "author": "disruptek",
+      "text": "https://en.wikipedia.org/wiki/Peterson%27s_algorithm",
+      "term": "peterson's"
+    }
+  ],
+  "futures": [
+    {
+      "author": "disruptek",
+      "text": "https://without.boats/blog/let-futures-be-futures/",
+      "term": "futures"
+    }
+  ],
+  "fences": [
+    {
+      "author": "disruptek",
+      "text": "an /anti-optimization/; they cannot make your code less correct.",
+      "term": "fences"
+    }
+  ],
+  "sendables": [
+    {
+      "author": "disruptek",
+      "text": "rtti",
+      "term": "sendables"
+    },
+    {
+      "author": "leorize",
+      "text": "https://gist.github.com/alaviss/b1854c911ee39be4f33d82a001d91a5f",
+      "term": "sendables"
+    }
   ]
 }
